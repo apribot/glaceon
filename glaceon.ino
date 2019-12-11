@@ -14,7 +14,7 @@ int lvl1;
 int lvl2;
 
 void setup() {/* no setup */
-  setRGB(0,120,200);
+  setRGB(20,50,200);
 
   lvl1 = random(0, maxWhite);
   lvl2 = random(0, maxWhite);
